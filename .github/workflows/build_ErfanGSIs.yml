@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netactuate.dl.sourceforge.net/project/ancientrom/riva/AncientOS-CIVILIZATION-v4.0.1-Final-riva-PRIMEVAL-20201215-2315-Vanilla.zip 
+  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/lavender/AncientOS-weeaboify-v4.0-Final-lavender-Koshiki-20200928-1205-Vanilla.zip 
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Ancientos
+  ZIP_NAME: Ancientos4.0
 jobs:
   build:
     runs-on: ubuntu-latest
