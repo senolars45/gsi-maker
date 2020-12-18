@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16s/8.20.11.10/cn_daily/20201110003048/9e816b1b/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://arcrec.mark41stark.workers.dev/Mark41-Uploads/OnePlus%207%20Pro%20Cyberpunk%20Edition.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Flyme-8
+  ZIP_NAME: Cyberpunk
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,7 +26,7 @@ jobs:
 
        
        - name: Clone ErfanGSI Source Code
-         run: git clone --recurse-submodules https://github.com/erkanergen7/ErfanGSIs-VelanGSIs.git
+         run: git clone --recurse-submodules https://github.com/erkanergen7/ErfanGSIs-VelanGSIs.git  ErfanGSIs
        
        - name: Setting up ErfanGSI requirements
          run: |
