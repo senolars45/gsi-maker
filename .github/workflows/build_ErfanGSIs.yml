@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://s120vla.storage.yandex.net/rdisk/8cc2b069fd900b9ed08462538de1286a6276c02d849c696a2ef09297cd7cb2dc/5fdd3206/Av7yVleztnw7sFG-Vu0QQ4tzMBJzL5aCiGVd-Kh08bRn9thAO2vjO7wWv-__b6ee3GDyEK37GHd-6EwnuUV0og==?uid=0&filename=MIUITR_12.0.1.0_MI5_GEMINI_M12-A10.zip&disposition=attachment&hash=MtOogntr%2Bb2lcmTIWebTndoeb/5XZXK95NcZ0At0D4rUOLr%2Bst3ZGUKAd0GzX8Jjq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=226448624&fsize=1624122291&hid=c03fc7e9b99968d08f5dfe979f3b2053&media_type=compressed&tknv=v2&rtoken=tF50cRy2HTZz&force_default=no&ycrid=na-c9979c8a7cfa9318ea97dbfd474dae1b-downloader8f&ts=5b6c4ec8c0d80&s=1e1a561ce2b9c94ebea401d7e9aa5fd0cc591c340c36ef0a2498f526fd0d63cd&pb=U2FsdGVkX1_FokFqkwuDLeFJZiu8prsFlEVhJjDH0CLC_AJhcaYCq9ZKhzlGRJbNv-MbMLsFDrMR0xCWDRuH7j8jDC7YUjyNpeg8qSFqFx0
-  ROM_NAME: MIUI
+  ROM_URL: https://downloads.sourceforge.net/project/ancientrom/Tissot/AncientOS-CIVILIZATION-v4.0.1-Final-tissot-PRIMEVAL-20201211-1020-Vanilla.zip?r=https%3A%2F%2Fwww.pling.com%2Fdl%3Ffile_id%3D1607930663%26file_type%3Dapplication%2Foctet-stream%26file_name%3Ddownload-20201214072312%26file_size%3D254%26has_torrent%3D0%26project_id%3D1424176%26link_type%3Ddownload%26is_external%3Dtrue%26external_link%3Dhttps%253A%252F%252Fsourceforge.net%252Fprojects%252Fancientrom%252Ffiles%252FTissot%252FAncientOS-CIVILIZATION-v4.0.1-Final-tissot-PRIMEVAL-20201211-1020-Vanilla.zip%252Fdownload&ts=1608301754&use_mirror=deac-riga 
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI-12
+  ZIP_NAME: Ancientos-4.0.1
 jobs:
   build:
     runs-on: ubuntu-latest
