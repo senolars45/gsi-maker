@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/ancientrom/Tissot/AncientOS-CIVILIZATION-v4.0.1-Final-tissot-PRIMEVAL-20201211-1020-Vanilla.zip?r=https%3A%2F%2Fwww.pling.com%2Fdl%3Ffile_id%3D1607930663%26file_type%3Dapplication%2Foctet-stream%26file_name%3Ddownload-20201214072312%26file_size%3D254%26has_torrent%3D0%26project_id%3D1424176%26link_type%3Ddownload%26is_external%3Dtrue%26external_link%3Dhttps%253A%252F%252Fsourceforge.net%252Fprojects%252Fancientrom%252Ffiles%252FTissot%252FAncientOS-CIVILIZATION-v4.0.1-Final-tissot-PRIMEVAL-20201211-1020-Vanilla.zip%252Fdownload&ts=1608301754&use_mirror=deac-riga 
+  ROM_URL: https://netactuate.dl.sourceforge.net/project/ancientrom/riva/AncientOS-CIVILIZATION-v4.0.1-Final-riva-PRIMEVAL-20201215-2315-Vanilla.zip 
   ROM_NAME: Pixel
   TZ: Asia/Kolkata
   MIR: wet
