@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://arcrec.mark41stark.workers.dev/Mark41-Uploads/OnePlus%207%20Pro%20Cyberpunk%20Edition.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://s120vla.storage.yandex.net/rdisk/8cc2b069fd900b9ed08462538de1286a6276c02d849c696a2ef09297cd7cb2dc/5fdd3206/Av7yVleztnw7sFG-Vu0QQ4tzMBJzL5aCiGVd-Kh08bRn9thAO2vjO7wWv-__b6ee3GDyEK37GHd-6EwnuUV0og==?uid=0&filename=MIUITR_12.0.1.0_MI5_GEMINI_M12-A10.zip&disposition=attachment&hash=MtOogntr%2Bb2lcmTIWebTndoeb/5XZXK95NcZ0At0D4rUOLr%2Bst3ZGUKAd0GzX8Jjq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=226448624&fsize=1624122291&hid=c03fc7e9b99968d08f5dfe979f3b2053&media_type=compressed&tknv=v2&rtoken=tF50cRy2HTZz&force_default=no&ycrid=na-c9979c8a7cfa9318ea97dbfd474dae1b-downloader8f&ts=5b6c4ec8c0d80&s=1e1a561ce2b9c94ebea401d7e9aa5fd0cc591c340c36ef0a2498f526fd0d63cd&pb=U2FsdGVkX1_FokFqkwuDLeFJZiu8prsFlEVhJjDH0CLC_AJhcaYCq9ZKhzlGRJbNv-MbMLsFDrMR0xCWDRuH7j8jDC7YUjyNpeg8qSFqFx0
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Cyberpunk
+  ZIP_NAME: MIUI-12
 jobs:
   build:
     runs-on: ubuntu-latest
