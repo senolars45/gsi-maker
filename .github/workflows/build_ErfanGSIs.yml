@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://gdmbd.sasohan.workers.dev/Razer-Edition_12.0.2.0_Stable.zip?
+  ROM_URL: https://hell.godseye.workers.dev/Razer-Edition_12.0.2.0_Stable.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Razer-Edition12.02
+  ZIP_NAME: Razer-Edition-12-02
 jobs:
   build:
     runs-on: ubuntu-latest
