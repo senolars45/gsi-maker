@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.techoffice.workers.dev//Razer-Edition_12.0.2.0_Stable.zip
+  ROM_URL: https://s42vla.storage.yandex.net/rdisk/db039a1a014a2ed381f3ec11f888cafd4473ba2c8d3fd332abe50f492dd076a0/5fdeb695/kG-WmyD0awmiIDbAqo6rGIZeggJXZWgaHZU-fP5gD5fbZIHey5Mj3pSVVO6MpFNfZulPtR-_tOTAzIWJeDjJWQ==?uid=0&filename=miuipro_v10.0_mido20.9.10.zip&disposition=attachment&hash=912dw4JEoKVFhffxMDsToJZS6c%2B/nH27jtA81OF1EGQzofGfJheITkPEXrQqOSczq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=434314726&fsize=1903424307&hid=2aaf026d4426a45d5cc6a94b72c0784b&media_type=compressed&tknv=v2&rtoken=jd8gTDVrEJG9&force_default=no&ycrid=na-2b198b5fec58c86c24796186f00c5b25-downloader4e&ts=5b6dc157b0f40&s=7250c1d688548cb75402cae20d081c7971b028eaf260f00abcc95493d9e8dc0a&pb=U2FsdGVkX1-B4i-1MypQI9nD_G7vI8yIJOGv38QnDa1X801siQF2tTM0IWl_K-YEvSz69NUFiG-Ib5K5JOfLBnBquH37ptgR1nynHX9Kge4
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
