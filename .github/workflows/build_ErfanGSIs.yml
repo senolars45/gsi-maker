@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/lavender/AncientOS-weeaboify-v4.0-Final-lavender-Koshiki-20200928-1205-Vanilla.zip 
-  ROM_NAME: Generic
+  ROM_URL: https://ota.xiaomi-miui.gr/suktew23/roms/20.12.2/xiaomi-miui-hellas-XTRV-HMNote7_20.12.2_v12-10.zip 
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Ancientos4.0
+  ZIP_NAME: MıuıHellas
 jobs:
   build:
     runs-on: ubuntu-latest
