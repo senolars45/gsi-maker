@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-14-1o-docs.googleusercontent.com/docs/securesc/2obhi01n5mqjuiq6g6br9ui4nvun6gjc/dl5i58k5deqq3hi7fmiho96lg76u7kt9/1608415350000/05736488493778403904/05160975035629448660/145jG39jKZQtYDrv004d7UCsMlH-6yO87?e=download&authuser=0&nonce=tk68ab583a5ks&user=05160975035629448660&hash=tb029u97att98a03842308eqb9ohbdmd
+  ROM_URL: https://gdmbd.sasohan.workers.dev/Razer-Edition_12.0.2.0_Stable.zip?
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
