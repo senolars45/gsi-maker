@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ota.xiaomi-miui.gr/suktew23/roms/20.12.2/xiaomi-miui-hellas-XTRV-HMNote7_20.12.2_v12-10.zip 
+  ROM_URL: https://mpl1.androidfilehost.com/dl/dyLsGUzcIvW3wL3c_6Ra-w/1608482326/17248734326145680724/xiaomi.eu_multi_HMNote7_20.12.9_v12-10.zip? 
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MıuıHellas
+  ZIP_NAME: EU20109rom
 jobs:
   build:
     runs-on: ubuntu-latest
