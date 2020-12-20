@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.techoffice.workers.dev//Razer-Edition_12.0.2.0_Stable.zip
+  ROM_URL: https://kamiui.ml/redmi4x/Redmi%20Note%204%20resources/MIUI12/Xiaomi_eu_12.0.3_HMNote4x_Stable_12-10.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Razermido
+  ZIP_NAME: stable4x
 jobs:
   build:
     runs-on: ubuntu-latest
