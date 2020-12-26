@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://kamiui.ml/redmi4x/Redmi%20Note%204%20resources/MIUI12/Xiaomi_eu_12.0.3_HMNote4x_Stable_12-10.zip
+  ROM_URL: https://dljz-my.sharepoint.com/personal/kidn_nii_ink/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fkidn%5Fnii%5Fink%2FDocuments%2F%E6%9C%BA%E5%9E%8B%E6%96%87%E4%BB%B6%E5%A4%B9%2FRedmi%20Note%204%20resources%2FMIUI12%2FMiui%2DX%5F20%2E11%2E5%2Ezip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: stable4x
+  ZIP_NAME: mıuı-x
 jobs:
   build:
     runs-on: ubuntu-latest
