@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dljz-my.sharepoint.com/personal/kidn_nii_ink/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fkidn%5Fnii%5Fink%2FDocuments%2F%E6%9C%BA%E5%9E%8B%E6%96%87%E4%BB%B6%E5%A4%B9%2FRedmi%20Note%204%20resources%2FMIUI12%2FMiui%2DX%5F20%2E11%2E5%2Ezip
+  ROM_URL: https://kamiui.ml/redmi4x/Redmi Note 4 resources/MIUI12/Miui-X_20.11.5.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
