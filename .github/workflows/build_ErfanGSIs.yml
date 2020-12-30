@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://kamiui.ml/redmi4x/Redmi%20Note%204%20resources/MIUI12/OneOS_RedmiNote4x_20.11.17_v12-10.zip
+  ROM_URL: https://hell.godseye.workers.dev/Razer_21.01.01_mido_akib.zip?
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: mıuı-oneos
+  ZIP_NAME: mıuı-Razer2021.01.01
 jobs:
   build:
     runs-on: ubuntu-latest
