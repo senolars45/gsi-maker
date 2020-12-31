@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.techoffice.workers.dev//Razer_21.01.01_mido_akib.zip
+  ROM_URL: https://s426man.storage.yandex.net/rdisk/a9f1db0718a055b0f7386ecf7960043383a7d8d8b09b79eb71ec07aa70bcbc1d/5fee6548/E2xJFc9Mfsx1EQs-3iDKdUuc7gvO3RBIdFF6Mz90eeQvwZR5OZkobzLzhb14ccREuZJuCpCFB801yxR94J7bNg==?uid=0&filename=Razer_21.01.01_mido_akib.zip&disposition=attachment&hash=58ZuzCzvniqqO9jtwvG%2B95vwKpiKVKiRs5hP6vW4ntRIAF8JYixgV52nEHr0Y/Mxq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=991811434&fsize=1865151695&hid=3f89353b21cf431f3dd04c4c037c34be&media_type=compressed&tknv=v2&rtoken=82n1l4RXCJ0B&force_default=no&ycrid=na-80d47c458e8c8258985ca2adadd3c580-downloader22f&ts=5b7cb60ede200&s=fbd5dc8eb6f216e4496893bcbe23d2720967358cd7ff0115881c4ba5dec01820&pb=U2FsdGVkX18YODDTHY-pLE8fHk40E3ms2iqpU3_7DthiIaXGP6CDRhM_ceZRfdG9Ilip8417SIfbq__-1ZODkiBtSW8rE6DyOUDAJAZzvTg
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
