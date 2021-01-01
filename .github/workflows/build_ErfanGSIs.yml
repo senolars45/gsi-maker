@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://s162vla.storage.yandex.net/rdisk/12ecbb5a1c7aa7f60f6fba37759add29d5e530f35874194d770c91007f9a2b38/5fee92de/E2xJFc9Mfsx1EQs-3iDKdUuc7gvO3RBIdFF6Mz90eeQvwZR5OZkobzLzhb14ccREuZJuCpCFB801yxR94J7bNg==?uid=0&filename=Razer_21.01.01_mido_akib.zip&disposition=attachment&hash=58ZuzCzvniqqO9jtwvG%2B95vwKpiKVKiRs5hP6vW4ntRIAF8JYixgV52nEHr0Y/Mxq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=991811434&fsize=1865151695&hid=3f89353b21cf431f3dd04c4c037c34be&media_type=compressed&tknv=v2&rtoken=iGIYze3e6tw0&force_default=no&ycrid=na-24ae69d8aa5cb5cfe07f4b45ac7f4f77-downloader12e&ts=5b7ce1883f380&s=421491975ed23d87eb65ba864ad64db8cdc0cbf7af69e20ca816afad5f76f898&pb=U2FsdGVkX1-_JYNHW4a-f29bxw3QyK71E3WivUHtQWaG3dI2A-PNmHNDWYk3VlaCmPBGqMabSlW1mwcjQqC5Jk6iH_-luY8DlVzuSlzsUU8
+  ROM_URL: https://dl9.volafile.org/get/D7DbvUiqQg1kZ/Razer_21.01.01_mido_akib.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
