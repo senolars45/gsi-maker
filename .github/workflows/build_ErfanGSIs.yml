@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl9.volafile.org/get/D7DbvUiqQg1kZ/Razer_21.01.01_mido_akib.zip
+  ROM_URL: http://s162vla.storage.yandex.net/rdisk/b38c9973b8fc21297afb3a64666bff0bb16501b72836b8e52425932975970c02/5fef7086/E2xJFc9Mfsx1EQs-3iDKdUuc7gvO3RBIdFF6Mz90eeQvwZR5OZkobzLzhb14ccREuZJuCpCFB801yxR94J7bNg==?uid=991811434&filename=Razer_21.01.01_mido_akib.zip&disposition=attachment&hash=&limit=0&content_type=application%2Fzip&owner_uid=991811434&fsize=1865151695&hid=3f89353b21cf431f3dd04c4c037c34be&media_type=compressed&tknv=v2&etag=f557718c1f34933b8bd709ce5e9f68d5&rtoken=NdeWviFD3mY6&force_default=yes&ycrid=na-68fbd5adac809b30baed7d944d19723e-downloader14e&ts=5b7db4eb8ad80&s=d51b30a31cf9a943ab8d383f3a6dba9fc4e7d4c35f927fa30c105c2321b46193&pb=U2FsdGVkX191blzR2sTbVRDKAEqkZ9g10cUCSlKuHQvY3QOR3gdGR9oC6DEFlz7m86VGotBTE3rtmz2cOLlWZIeqPBc5BoK8O_FSC-7GJ4U
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: mıuı
+  ZIP_NAME: mıuırazer
 jobs:
   build:
     runs-on: ubuntu-latest
