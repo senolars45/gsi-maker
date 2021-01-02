@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://gdmbd.sasohan.workers.dev/Razer_21.01.01_mido_akib.zip
+  ROM_URL: https://hell.godseye.workers.dev/Razer_21.01.01_mido_akib.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: mıuırazer1
+  ZIP_NAME: mıuırazer2
 jobs:
   build:
     runs-on: ubuntu-latest
