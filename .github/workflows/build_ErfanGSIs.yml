@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hell.godseye.workers.dev/Razer_21.01.01_mido_akib.zip
+  ROM_URL: https://kamiui.ml/redmi4x/Redmi%20Note%204%20resources/MIUI12/Xiaomi.eu.20.12.28.Mido.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: mıuırazer2
+  ZIP_NAME: mıuı12.5
 jobs:
   build:
     runs-on: ubuntu-latest
