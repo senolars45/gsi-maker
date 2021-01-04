@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://kamiui.ml/redmi4x/Redmi%20Note%204%20resources/MIUI12/Xiaomi.eu.20.12.28.Mido.zip
+  ROM_URL: http://localhost:54321/streaming?t=1
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: mıuı12.5
+  ZIP_NAME: mıuı12indu
 jobs:
   build:
     runs-on: ubuntu-latest
