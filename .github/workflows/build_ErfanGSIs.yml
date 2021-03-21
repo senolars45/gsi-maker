@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hell.godseye.workers.dev/MMX_Whyred_21.1.6_whyred_Shubh_21.1.6_10.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/redminote8es/Ginkgo/MIUI/MIUIPLUS_A11_Ginkgo_210320.By_YyLLHdz.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: mıuımx12.5
+  ZIP_NAME: MIUI-PLUS11
 jobs:
   build:
     runs-on: ubuntu-latest
