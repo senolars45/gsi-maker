@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/redminote8es/Ginkgo/MIUI/MIUIPLUS_A11_Ginkgo_210320.By_YyLLHdz.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://api.aospextended.com/download/RMX1851/q_gapps/51ec33e251453d4b1ba96969b5ef7827a66a5a468f8c486d7236762f44802524662097f059dca663ce9d597e2d4f233db806cc21
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI-PLUS11
+  ZIP_NAME: XTENDED
 jobs:
   build:
     runs-on: ubuntu-latest
