@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.23_GLO_0230_2102261701/OnePlus7TProOxygen_13.W.23_OTA_0230_all_2102261701_905560a700.zip
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_13.W.58_GLO_0580_2102261639/OnePlus7ProOxygen_13.W.58_OTA_0580_all_2102261639_996f2.zip
   ROM_NAME: OxygenOS
   TZ: Asia/Kolkata
   MIR: wet
