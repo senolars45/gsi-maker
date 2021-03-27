@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_14.E.22_GLO_022_2101282159/OnePlus7TOxygen_14.E.22_OTA_022_all_2101282159_d237c94f0.zip
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TProOxygen/OnePlus7TProOxygen_13.W.23_GLO_0230_2102261701/OnePlus7TProOxygen_13.W.23_OTA_0230_all_2102261701_905560a700.zip
   ROM_NAME: OxygenOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Oxygen/OnePlus7TOxygen
+  ZIP_NAME: Oxygen
 jobs:
   build:
     runs-on: ubuntu-latest
