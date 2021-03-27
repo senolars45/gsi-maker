@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus7Oxygen_13.W.56_OTA_0560_all_2101121205_1a464004e5024a38.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://netix.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/21.3.24/xiaomi.eu_multi_MI9LiteMICC9_21.3.24_v12-11.zip
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Oxygen
+  ZIP_NAME: MIUI EU BETA 24-3-21
 jobs:
   build:
     runs-on: ubuntu-latest
