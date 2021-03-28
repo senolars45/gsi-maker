@@ -5,11 +5,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTY0MTE2NDAiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjdkMjRkMTQ1YjVmM2I2M2NkYTlhODZlNGQxODU1YWYwNmM3NmVhOTkzNjdkOWY4MzMxMTI4NTFjZWY1OGMxOWRhMjhkMDkwZWQzODIzN2NmM2M2YzAyNGZmODVjOWZjNGI4NDE5NmMyNzljNWM3Y2YxNTYzNDBjNzYwMWJjZTAwIiwidCI6MTYxNjkyNjI1OCwic3RmcCI6ImIyZjNjNTdmMGY1ZjVkOTgyNWUyZjQ0NWQ5NTBkZTgyIiwic3RpcCI6IjMxLjIyMy45NC45In0.4Rywh3Srkv8jKO0EgjDWXyQmUf5Wn4p9dFsvZohXPIk/Nusantara_v2.7-11-miatoll-Gapps-22032021-OFFICIAL-0243.zip
-  ROM_NAME: Generic
-  TZ: Asia/Kolkata
+  ROM_URL: https://build.aospa.co/updates/oneplus7tpro/pa-quartz-5-oneplus7tpro-20200923.zip
   MIR: wet
-  ZIP_NAME: Nusantara
+  ZIP_NAME: Paranoid
 jobs:
   build:
     runs-on: ubuntu-latest
