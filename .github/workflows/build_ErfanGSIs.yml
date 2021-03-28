@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://www.pling.com/p/1422343/startdownload?file_id=1616579709&file_name=Nusantara_v2.7-11-RMX1851-23032021-OFFICIAL-2021.zip&file_type=application/java-archive&file_size=678899729
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTM3NzcwODAiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjZlZTQwMGIwYzc5ZmU3OGExZmIwMzkyNTQ3NTk4MzZiMzQ1NmFmZjY3NTcyOWUyMTRkNGMxYjJlNzRlM2M0MTM0NzVlMzVlODVhMzY1YmI1NDZjYjBlNDc3MjIxY2VkNThiZjY0NDNhMTZmZmQ5MGUwM2Y0YTAzZjRjOTNjZWZkIiwidCI6MTYxNjkwODAwNCwic3RmcCI6ImIyZjNjNTdmMGY1ZjVkOTgyNWUyZjQ0NWQ5NTBkZTgyIiwic3RpcCI6IjMxLjIyMy45NC45In0.fxDfHBR0Sj-ycvKJmwgb7TVrPlJNZo2r3qMrCRJ8CUw/Nusantara_v2.6-11-sirius-18022021-OFFICIAL-1425.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Realme 3 nusantara
+  ZIP_NAME: nusantara 2.7
 jobs:
   build:
     runs-on: ubuntu-latest
