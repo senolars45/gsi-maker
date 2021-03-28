@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://build.aospa.co/updates/oneplus6/pa-quartz-5-oneplus6-20200923.zip
+  ROM_URL: https://build.aospa.co/updates/dipper/pa-quartz-5-dipper-20200923.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Paranoid
+  ZIP_NAME: Paranoid mi8
 jobs:
   build:
     runs-on: ubuntu-latest
