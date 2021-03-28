@@ -9,7 +9,7 @@ env:
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI-WEEKLY-RELEASES/21.3.24
+  ZIP_NAME: MIUI
 jobs:
   build:
     runs-on: ubuntu-latest
