@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTY1Nzk3MDkiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImM1ZTI5OTc0MGQ5OTZmOWRjZjAyZDRjOTY4ODgyZGEyOGQzMzRlY2VhOTY3MWVmODZiNzZkZjNmY2Q4NzU0OTZlOTZlYjAyNzg2ZDU4NmRkMjgxNDk2YWQwOTI0MDdhNmRhOTNlNDcyYmUyNWU3YThjNWQyYzVjNTc2MzI5MjlhIiwidCI6MTYxNjkwNDM0MCwic3RmcCI6ImIyZjNjNTdmMGY1ZjVkOTgyNWUyZjQ0NWQ5NTBkZTgyIiwic3RpcCI6IjMxLjIyMy45NC45In0.xTskzKfEGVVW0v_ZiKI24aNTlffEnxc1qRcFekKsBL4/Nusantara_v2.7-11-RMX1851-23032021-OFFICIAL-2021.zip
+  ROM_URL: https://www.pling.com/p/1422343/startdownload?file_id=1616579709&file_name=Nusantara_v2.7-11-RMX1851-23032021-OFFICIAL-2021.zip&file_type=application/java-archive&file_size=678899729
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
