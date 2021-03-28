@@ -5,9 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hosting.carbonrom.org/guacamoleb/CARBON-CR-8.0-PAX-RELEASE-guacamoleb-20210320-1828.zip
+  ROM_URL: https://build.aospa.co/updates/oneplus6/pa-quartz-5-oneplus6-20200923.zip
+  ROM_NAME: Generic
+  TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Carbon
+  ZIP_NAME: Paranoid
 jobs:
   build:
     runs-on: ubuntu-latest
