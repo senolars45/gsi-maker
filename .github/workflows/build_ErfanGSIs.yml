@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://build.aospa.co/updates/dipper/pa-quartz-5-dipper-20200923.zip
+  ROM_URL: https://mirrors.xtom.com/osdn//cygnus-android/74789/Cygnus-3.2-OFFICIAL-beryllium-GAPPS-CYGQ.0320.20210316-20210316-1848.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Carbon
+  ZIP_NAME: Cygnus
 jobs:
   build:
     runs-on: ubuntu-latest
