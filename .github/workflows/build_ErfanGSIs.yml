@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://deac-riga.dl.sourceforge.net/project/nusantaraproject/beryllium/Nusantara_v2.7-11-beryllium-22032021-OFFICIAL-1048.zip
+  ROM_URL: https://dotsrc.dl.osdn.net/osdn/cygnus-android/74888/Cygnus-3.2-OFFICIAL-ginkgo-GAPPS-CYGQ.0320.20210330-20210330-1230.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Nusantarapro
+  ZIP_NAME: Cygnussss
 jobs:
   build:
     runs-on: ubuntu-latest
