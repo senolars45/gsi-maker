@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl2-sponsored-by.indianets.net/uxyjen/oos11-op8ob4/OOS11-OP8-OB4-oofgang.zip
+  ROM_URL: https://deac-riga.dl.sourceforge.net/project/nusantaraproject/beryllium/Nusantara_v2.7-11-beryllium-22032021-OFFICIAL-1048.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: oxygen
+  ZIP_NAME: Nusantara
 jobs:
   build:
     runs-on: ubuntu-latest
