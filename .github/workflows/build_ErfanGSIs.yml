@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ftp.halifax.rwth-aachen.de/osdn/cygnus-android/74546/Cygnus-3.0-OFFICIAL-violet-GAPPS-CYGQ.0300.20210129-20210129-1647.zip
+  ROM_URL: https://dl2-sponsored-by.indianets.net/uxyjen/oos11-op8ob4/OOS11-OP8-OB4-oofgang.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Cygnuss
+  ZIP_NAME: oxygen
 jobs:
   build:
     runs-on: ubuntu-latest
