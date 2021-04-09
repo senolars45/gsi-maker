@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dotsrc.dl.osdn.net/osdn/cygnus-android/74888/Cygnus-3.2-OFFICIAL-ginkgo-GAPPS-CYGQ.0320.20210330-20210330-1230.zip
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTY1Nzk3MDkiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImYzNTJmNzk2MDNmYzJjYTljMTJlNjc0MjZiMmExMWQ2MzQ1ZDZmODM2YTM5YjgxZTczZDk1N2QyZTc1ZmJmNDFiMTFmY2YzOGUzZmJkMDVlZTIxYzQ3NzMyMmZhMzZlNzQzYmZkYmU1NTZmMmNkMTY4MTYwMWFjOTI5OGUzMzdjIiwidCI6MTYxNzk5MjQwMCwic3RmcCI6ImYyZWNmODA4MWVmMTgyN2UxNjMyZDEwMjgzZDVjZmE1Iiwic3RpcCI6IjIzLjI0OS4xNzIuMTg0In0.Wjd2kXnmdqkc3IsOvfnGsoX7MKmxSmVqXSFazhKfcM4/Nusantara_v2.7-11-RMX1851-23032021-OFFICIAL-2021.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Cygnussss
+  ZIP_NAME: Nusantara
 jobs:
   build:
     runs-on: ubuntu-latest
