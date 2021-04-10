@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://build.aospa.co/updates/oneplus7pro/pa-quartz-5-oneplus7pro-20200923.zip
+  ROM_URL: https://iweb.dl.sourceforge.net/project/cygnus-android/riva/Cygnus-2.1.1-OFFICIAL-riva-GAPPS-CYGQ.021.10.20200711.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Paranoid
+  ZIP_NAME: Cygnus
 jobs:
   build:
     runs-on: ubuntu-latest
