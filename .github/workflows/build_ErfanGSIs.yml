@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://iweb.dl.sourceforge.net/project/cygnus-android/riva/Cygnus-2.1.1-OFFICIAL-riva-GAPPS-CYGQ.021.10.20200711.zip
+  ROM_URL: https://pilotfiber.dl.sourceforge.net/project/berkay-gsi/Generic%20-%20CygnusOS-v3.2%20-%20JPNLONZ5YW/CygnusOS-v3.2-AB-11-20210404-ShadesOfDeath.img.gz
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
