@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.droidontime.com/dot11/miatoll/vanilla/dotOS-R-v5.0.1-miatoll-OFFICIAL-20210417-1528.zip
+  ROM_URL: https://downloads.droidontime.com/dot11/miatoll/gapps/dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Dotos
+  ZIP_NAME: Dotosgapps
 jobs:
   build:
     runs-on: ubuntu-latest
