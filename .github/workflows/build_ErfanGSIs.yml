@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://pilotfiber.dl.sourceforge.net/project/berkay-gsi/Generic%20-%20CygnusOS-v3.2%20-%20JPNLONZ5YW/CygnusOS-v3.2-AB-11-20210404-ShadesOfDeath.img.gz
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210402154033/PCNM00_11_OTA_1280_all_tODo4GmS6m2R.ozip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Cygnus
+  ZIP_NAME: Coloros
 jobs:
   build:
     runs-on: ubuntu-latest
