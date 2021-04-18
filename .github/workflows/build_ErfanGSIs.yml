@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210402154033/PCNM00_11_OTA_1280_all_tODo4GmS6m2R.ozip
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210319102041/PBCM10_11_OTA_2180_all_CrSDCRuW3ngb.ozip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
