@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210319102041/PBCM10_11_OTA_2180_all_CrSDCRuW3ngb.ozip
+  ROM_URL: https://downloads.droidontime.com/dot11/miatoll/vanilla/dotOS-R-v5.0.1-miatoll-OFFICIAL-20210417-1528.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Coloros
+  ZIP_NAME: Dotos
 jobs:
   build:
     runs-on: ubuntu-latest
