@@ -9,7 +9,7 @@ env:
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Dotosgps
+  ZIP_NAME: Dotosssgps
 jobs:
   build:
     runs-on: ubuntu-latest
