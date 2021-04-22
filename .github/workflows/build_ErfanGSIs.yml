@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.droidontime.com/dot11/miatoll/gapps/dotOS-R-v5.0.1-miatoll-GAPPS-20210417-1614.zip
+  ROM_URL: https://mpl1.androidfilehost.com/dl/EinUsgQ4aWMnWO9ssqr9Gg/1619219080/2188818919693781711/OneOS_HMK20ProMI9TPro_21.4.17_V125-11.zip?
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Dotosssgps
+  ZIP_NAME: Oneos
 jobs:
   build:
     runs-on: ubuntu-latest
