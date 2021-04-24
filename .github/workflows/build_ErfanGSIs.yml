@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mpl1.androidfilehost.com/dl/EinUsgQ4aWMnWO9ssqr9Gg/1619219080/2188818919693781711/OneOS_HMK20ProMI9TPro_21.4.17_V125-11.zip?
+  ROM_URL: https://mde1.androidfilehost.com/dl/l8zSVXfJmWaQunwK0JcL1Q/1619312214/2188818919693781722/OneOS_MI9_21.4.17_V125-11.zip?
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
