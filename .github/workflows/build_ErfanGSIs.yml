@@ -9,7 +9,7 @@ env:
   ROM_NAME: GENERIC
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Arrowos
+  ZIP_NAME: Generic
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,7 +26,7 @@ jobs:
 
        
        - name: Clone ErfanGSI Source Code
-         run: git clone --recurse-submodules https://github.com/senolars45/ErfanGSIs-VelanGSIs.git  ErfanGSIs
+         run: git clone --recurse-submodules https://github.com/senolars45/ErfanGSIs.git  ErfanGSIs
        
        - name: Setting up ErfanGSI requirements
          run: |
