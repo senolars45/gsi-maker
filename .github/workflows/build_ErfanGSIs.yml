@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.mirror1.arrowos.net/download.php?token=AqVKjR8ZlkfusiQ0zBvxa7pLmNJFcdPrhMS1wyHI69Oo42GtebDY5CEUXWn3&version=arrow-11.0&variant=official&device=davinci
+  ROM_URL: https://get.mirror2.arrowos.net/download.php?token=AqVKjR8ZlkfusiQ0zBvxa7pLmNJFcdPrhMS1wyHI69Oo42GtebDY5CEUXWn3&version=arrow-11.0&variant=official&device=davinci
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Arrow
+  ZIP_NAME: Geberic
 jobs:
   build:
     runs-on: ubuntu-latest
