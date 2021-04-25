@@ -6,10 +6,10 @@ on:
     
 env:
   ROM_URL: https://get.mirror2.arrowos.net/download.php?token=AqVKjR8ZlkfusiQ0zBvxa7pLmNJFcdPrhMS1wyHI69Oo42GtebDY5CEUXWn3&version=arrow-11.0&variant=official&device=davinci
-  ROM_NAME: Generic
+  ROM_NAME: GENERIC
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Geberic
+  ZIP_NAME: Arrowos
 jobs:
   build:
     runs-on: ubuntu-latest
