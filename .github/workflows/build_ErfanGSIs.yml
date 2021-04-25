@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mde1.androidfilehost.com/dl/l8zSVXfJmWaQunwK0JcL1Q/1619312214/2188818919693781722/OneOS_MI9_21.4.17_V125-11.zip?
+  ROM_URL: https://get.mirror1.arrowos.net/download.php?token=lGcsaWTSPVz9H3KBdA0uok6jgX7E45eFOLMhZYCIiJftnvb1mqxNw82pRyUr&version=arrow-11.0&variant=community_experiments&device=cepheus
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Oneos
+  ZIP_NAME: Arrowmi9
 jobs:
   build:
     runs-on: ubuntu-latest
