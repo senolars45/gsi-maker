@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.mirror1.arrowos.net/download.php?token=lGcsaWTSPVz9H3KBdA0uok6jgX7E45eFOLMhZYCIiJftnvb1mqxNw82pRyUr&version=arrow-11.0&variant=community_experiments&device=cepheus
-  ROM_NAME: GENERIC
+  ROM_URL: https://mpl1.androidfilehost.com/dl/EJcxtscoVsar_l5urU4n4g/1619455994/2188818919693782376/OneOS_HMNote9Pro_HMNote9S_21.4.17_V12-10.zip?
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Arruw
+  ZIP_NAME: Oneos
 jobs:
   build:
     runs-on: ubuntu-latest
