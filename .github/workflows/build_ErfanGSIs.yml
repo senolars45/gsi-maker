@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL:  https://mpl1.androidfilehost.com/dl/KABu7Kp8iPEyk2shOqOpAQ/1619442586/2188818919693781722/OneOS_MI9_21.4.17_V125-11.zip?
+  ROM_URL: https://mpl1.androidfilehost.com/dl/KABu7Kp8iPEyk2shOqOpAQ/1619442586/2188818919693781722/OneOS_MI9_21.4.17_V125-11.zip?
   ROM_NAME: GENERIC
   TZ: Asia/Kolkata
   MIR: wet
