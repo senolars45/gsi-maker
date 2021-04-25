@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.mirror1.arrowos.net/download.php?token=eKcG7dzFtsLnIvqfDw52PQjAWxThySgiMpk63lCEm8VrY4ZHB0bNU1uXoaRO&version=arrow-11.0&variant=community_experiments&device=cepheus
-  ROM_NAME: GENERIC
+  ROM_URL: https://netix.dl.sourceforge.net/project/one-os/2021/21.4.17/OneOS_HMK20MI9T_21.4.17_V125-11.zip
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Arrow
+  ZIP_NAME: Oneosmi9t
 jobs:
   build:
     runs-on: ubuntu-latest
