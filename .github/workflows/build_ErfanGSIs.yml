@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mde1.androidfilehost.com/dl/7F9UBtoU0PK4vgq_JK8ryQ/1619439768/2188818919693781722/OneOS_MI9_21.4.17_V125-11.zip?
-  ROM_NAME: GNERIC
+  ROM_URL:  https://mpl1.androidfilehost.com/dl/KABu7Kp8iPEyk2shOqOpAQ/1619442586/2188818919693781722/OneOS_MI9_21.4.17_V125-11.zip?
+  ROM_NAME: GENERIC
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: Generic
@@ -26,7 +26,7 @@ jobs:
 
        
        - name: Clone ErfanGSI Source Code
-         run: git clone --recurse-submodules https://github.com/senolars45/ErfanGSIs.git  ErfanGSIs
+         run: git clone --recurse-submodules https://github.com/senolars45/ErfanGSIs-VelanGSIs.git  ErfanGSIs
        
        - name: Setting up ErfanGSI requirements
          run: |
