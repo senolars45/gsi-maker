@@ -6,10 +6,10 @@ on:
     
 env:
   ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/davinci/AncientOS-R-Society-v5.3-davinci-Iron-20210414-1813-Vanilla.zip
-  ROM_NAME: GENERIC
+  ROM_NAME: ANCIENTOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Ancient53
+  ZIP_NAME: AncientOS
 jobs:
   build:
     runs-on: ubuntu-latest
