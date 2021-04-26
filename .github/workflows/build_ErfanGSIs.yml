@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/davinci/AncientOS-R-Society-v5.3-davinci-Iron-20210414-1813-Vanilla.zip
+  ROM_URL: https://get.mirror1.arrowos.net/download.php?token=agc5wNGfoFbLhCIvDRQUX8Wy79mMV324uxtiEH6knPZpTdAserO0Sj1zBlJq&version=arrow-11.0&variant=community_experiments&device=cepheus
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Ancient
+  ZIP_NAME: Arrow
 jobs:
   build:
     runs-on: ubuntu-latest
