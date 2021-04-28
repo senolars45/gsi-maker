@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nav.dl.sourceforge.net/project/one-os/2021/21.4.17/OneOS_MI9_21.4.17_V125-11.zip
+  ROM_URL: https://nav.dl.sourceforge.net/project/one-os/2021/21.4.17/OneOS_HMK20MI9T_21.4.17_V125-11.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Oneos
+  ZIP_NAME: Oneos9t
 jobs:
   build:
     runs-on: ubuntu-latest
