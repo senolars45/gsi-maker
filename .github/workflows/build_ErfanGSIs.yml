@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nav.dl.sourceforge.net/project/one-os/2021/21.4.17/OneOS_HMK20MI9T_21.4.17_V125-11.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://pilotfiber.dl.sourceforge.net/project/ancientrom/davinci/AncientOS-R-Society-v5.3-davinci-Iron-20210414-1850-GApps.zip
+  ROM_NAME: Generiz
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Oneos9t
+  ZIP_NAME: Accientos9t
 jobs:
   build:
     runs-on: ubuntu-latest
