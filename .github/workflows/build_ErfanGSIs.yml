@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://pilotfiber.dl.sourceforge.net/project/ancientrom/davinci/AncientOS-R-Society-v5.3-davinci-Iron-20210414-1850-GApps.zip
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.36_OTA_0360_all_2104141852_00ff248740a34a24.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Accientos9t
+  ZIP_NAME: Oxygenos
 jobs:
   build:
     runs-on: ubuntu-latest
