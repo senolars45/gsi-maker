@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.36_OTA_0360_all_2104141852_00ff248740a34a24.zip
+  ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/pa-ruby-1-miatoll-20210604-dev.zip
   ROM_NAME: GENERIC
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Oxygenos
+  ZIP_NAME: Paranoid
 jobs:
   build:
     runs-on: ubuntu-latest
