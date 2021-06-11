@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/pa-ruby-1-miatoll-20210604-dev.zip
+  ROM_URL: https://build.aospa.co/updates/cepheus/pa-quartz-5-cepheus-20200925.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
