@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://build.aospa.co/updates/cepheus/pa-quartz-5-cepheus-20200925.zip
+  ROM_URL: https://get.mirror1.arrowos.net/download.php?token=AlSMB4RZLoXxIUKmzOJHgnYrasED86qWTyd5CkQbFV1fP0hjNp79G2ec3tui&version=arrow-11.0&variant=official&device=davinci
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Paranoid
+  ZIP_NAME: Arrowos
 jobs:
   build:
     runs-on: ubuntu-latest
