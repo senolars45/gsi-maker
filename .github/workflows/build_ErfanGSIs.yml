@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.mirror1.arrowos.net/download.php?token=AlSMB4RZLoXxIUKmzOJHgnYrasED86qWTyd5CkQbFV1fP0hjNp79G2ec3tui&version=arrow-11.0&variant=official&device=davinci
+  ROM_URL: https://get.mirror2.arrowos.net/download.php?token=AlSMB4RZLoXxIUKmzOJHgnYrasED86qWTyd5CkQbFV1fP0hjNp79G2ec3tui&version=arrow-11.0&variant=official&device=davinci
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
