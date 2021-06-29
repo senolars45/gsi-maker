@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.mirror3.arrowos.net/download.php?token=ZNpO6Shv4Y0X2QicbM5EkA7tqxJfrGd39gV1la8wFmjzKILuDysRWCUnoHBP&version=arrow-11.0&variant=official&device=surya
+  ROM_URL: https://iweb.dl.sourceforge.net/project/cygnus-android/test/Cygnus-3.0-OFFICIAL-beryllium-GAPPS-CYGQ.0300.20210205-20210205-1333.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Arrow
+  ZIP_NAME: Cygnus
 jobs:
   build:
     runs-on: ubuntu-latest
