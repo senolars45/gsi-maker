@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://deac-riga.dl.sourceforge.net/project/cygnusx00t/Cygnus-3.4-UNOFFICIAL-X00TD-GAPPS-CYGR.0340.20210731-0327.zip
+  ROM_URL: https://master.dl.sourceforge.net/project/cygnus-android/ginkgo/Cygnus-3.0-OFFICIAL-ginkgo-GAPPS-CYGQ.0300.20210203-20210203-0255.zip?viasf=1
   ROM_NAME: GENERIC
   TZ: Asia/Kolkata
   MIR: wet
