@@ -9,7 +9,7 @@ env:
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Cygnus
+  ZIP_NAME: Cygnus OS CAF
 jobs:
   build:
     runs-on: ubuntu-latest
