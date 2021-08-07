@@ -9,7 +9,7 @@ env:
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Oxygen
+  ZIP_NAME: OxygenOS
 jobs:
   build:
     runs-on: ubuntu-latest
