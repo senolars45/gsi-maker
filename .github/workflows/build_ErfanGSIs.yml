@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/cygnusx00t/Cygnus-3.4-UNOFFICIAL-X00TD-GAPPS-CYGR.0340.20210731-0327.zip
+  ROM_URL: https://mva2.androidfilehost.com/dl/-fj_ma3fAze7s9Q0a7iKtw/1628381135/2188818919693770547/OnePlus7ProOxygen_21.P.35_OTA_0350_all_2103221240_0ebe9c8a78.zip?
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: CygnusO
+  ZIP_NAME: OxygenOS
 jobs:
   build:
     runs-on: ubuntu-latest
