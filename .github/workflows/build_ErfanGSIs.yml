@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mva2.androidfilehost.com/dl/-fj_ma3fAze7s9Q0a7iKtw/1628381135/2188818919693770547/OnePlus7ProOxygen_21.P.35_OTA_0350_all_2103221240_0ebe9c8a78.zip?
+  ROM_URL: https://mpl1.androidfilehost.com/dl/N2YovkKTwJBqSV6e7s0C7Q/1628382539/7161016148664779333/SuperiorOS-Xcalibur-ali-GAPPS-UNOFFICIAL-20210804-1602.zip?
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: OxygenOS
+  ZIP_NAME: SuperiorOS
 jobs:
   build:
     runs-on: ubuntu-latest
