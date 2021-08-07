@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mpl1.androidfilehost.com/dl/Yi1D2tdIVy2v-2YDSVPQQw/1628385625/14943124697586373804/LegionOS-v3.11-lmi-20210726-UNOFFICIAL-VANILLA.zip?
+  ROM_URL: https://mpl1.androidfilehost.com/dl/RFVn1-27G8BEcb8NGsQtyw/1628387984/7161016148664779334/SuperiorOS-Xcalibur-ali-UNOFFICIAL-20210804-1501.zip?
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: LegionOS
+  ZIP_NAME: SuperiorOS
 jobs:
   build:
     runs-on: ubuntu-latest
