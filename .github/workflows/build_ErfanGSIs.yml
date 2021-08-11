@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.droidontime.com/dot11/hotdog/gapps/dotOS-R-v5.1.3-hotdog-GAPPS-20210809-1317.zip
+  ROM_URL: https://nav.dl.sourceforge.net/project/blissroms/R/guacamole/Bliss-v14.5-guacamole-OFFICIAL-gapps-20210717.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: DotOS
+  ZIP_NAME: Bliss
 jobs:
   build:
     runs-on: ubuntu-latest
