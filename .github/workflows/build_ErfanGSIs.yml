@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nav.dl.sourceforge.net/project/blissroms/R/guacamole/Bliss-v14.5-guacamole-OFFICIAL-gapps-20210717.zip
+  ROM_URL: https://hugeota.d.miui.com/V12.5.5.0.RFDEUXM/miui_TUCANAEEAGlobal_V12.5.5.0.RFDEUXM_867bc939b1_11.0.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Bliss
+  ZIP_NAME: miui
 jobs:
   build:
     runs-on: ubuntu-latest
